@@ -1,4 +1,4 @@
 # Add  code here!
-def prime?(i)
-  (1..10).to_a
+def prime?(num)
+  (num).to_a
 end
